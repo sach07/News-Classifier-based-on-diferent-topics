@@ -1,0 +1,4 @@
+Sklearn 
+flask
+pandas
+gunicorn
